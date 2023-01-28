@@ -76,6 +76,6 @@ Once downloaded, just run the .exe and input your webhook. You can also choose t
 ------------------------------------------------------------------------------------------------------------
 ### 📝 **If you have any other improvement ideas or questions, just ask me on Discord or join our server!**
 
-- [Our Discord here!](https://discord.gg/s3RVzKjteg)                                                                                                                                                                      
+- [Our Discord here!](https://discord.gg/5sUmkk64Zx)                                                                                                                                                                      
 ------------------------------------------------------------------------------------------------------------
 ⏳ *Thanks to everyone who took the time to read through this slightly longer tutorial! ↑↑*
